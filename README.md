@@ -1,5 +1,5 @@
 -# 💫 About Me:
-🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring Web-Development.<br>🤔 Final Year Btech Student @ Dr. A. P. J. Abdul Kalam Technical University (AKTU) ,Lucknow.<br>⚡ Contributor @ Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/vikas-tripathi-lko<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
+🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring Web-Development.<br>🤔 Final Year Btech Student @ Dr. A. P. J. Abdul Kalam Technical University (AKTU) ,Lucknow.<br>⚡ Contributor @ Hacksquad '22 , Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/vikas-tripathi-lko<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
 
 
 ## 🌐 Socials:
