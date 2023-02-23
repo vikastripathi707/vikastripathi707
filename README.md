@@ -28,12 +28,20 @@
 
 <br>
 <img src="./rainbow-superthin.gif"> <br>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikastripathi707&theme=discord&no-frame=false&no-bg=false&margin-w=4) 
-### ✍️ Random Dev Quote
+
+
+### ✍️ Random Dev Quote 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=vikastripathi707&icon=7&color=1)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=vikastripathi707&icon=7&color=1)
+ 
+ 
  <br><img src="./rainbow-superthin.gif"><br>
   
   <br>
