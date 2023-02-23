@@ -26,8 +26,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vikastripathi707&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikastripathi707&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<a href="https://github.com/vikastripathi707/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ervikasji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br>
+<br>
 <img src="./rainbow-superthin.gif">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikastripathi707&theme=discord&no-frame=false&no-bg=false&margin-w=4) <br>
