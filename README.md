@@ -1,3 +1,11 @@
+<!--👋-->  <!--img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px"-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=Hello+folks+!)](https://git.io/typing-svg)
+
+   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=19&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+
+
 -# 💫 About Me:
 🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring Web-Development.<br>🤔 Final Year Btech Student @ Dr. A. P. J. Abdul Kalam Technical University (AKTU) ,Lucknow.<br>⚡ Contributor @ Hacksquad '22 , Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: (https://www.linkedin.com/in/vikastripathi707)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
 
