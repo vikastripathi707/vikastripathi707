@@ -7,7 +7,7 @@
 
 
 -# 💫 About Me:
-🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring Web-Development.-  I’m currently learning **web devlopment** <img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
+🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring **Web-Development**. <img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
 <br>🤔 Final Year Btech Student @ Dr. A. P. J. Abdul Kalam Technical University (AKTU) ,Lucknow.<br>⚡ Contributor @ Hacksquad '22 , Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: (https://www.linkedin.com/in/vikastripathi707)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
  <br><img src="./rainbow-superthin.gif">
 
@@ -27,13 +27,31 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikastripathi707&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
-<img src="./rainbow-superthin.gif">
+<img src="./rainbow-superthin.gif"> <br>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikastripathi707&theme=discord&no-frame=false&no-bg=false&margin-w=4) <br>
-<img src="./rainbow-superthin.gif"><br>
+![](https://github-profile-trophy.vercel.app/?username=vikastripathi707&theme=discord&no-frame=false&no-bg=false&margin-w=4) 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br><img src="./rainbow-superthin.gif"><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=vikastripathi707&icon=7&color=1)](https://visitcount.itsvg.in)
-<br><img src="./rainbow-superthin.gif"><br>
+ <br><img src="./rainbow-superthin.gif"><br>
+  
+  <br>
+  <!--Connect -->
+<h2><img width="40" src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" > Connect with me on  </h2>
+
+
+<a href="https://www.instagram.com/er_vikasji/" target="_blank" rel="noopener">
+    <img width="32" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
+</a> 
+
+<a href="mailto:ervikas707@gmail.com" target="_blank" rel="noopener">
+    <img width="34" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="mail">
+</a> 
+<a href="#" target="_blank" rel="noopener">
+    <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
+</a> 
+
+<a href="https://www.linkedin.com/in/vikastripathi707/" target="_blank" rel="noopener">
+    <img width="34" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
+</a> 
