@@ -7,7 +7,7 @@
 
 
 -# 💫 About Me:
-🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring **FullStack Development**. <img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
+🔭 I’m Currently looking for Job Oppotunities in Web-Development Field.<br> <img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
 <br>🤔 Final Year Btech Student @ Dr. A. P. J. Abdul Kalam Technical University (AKTU) ,Lucknow.<br>⚡ Contributor @ Hacksquad '22 , Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: (https://www.linkedin.com/in/vikastripathi707)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
  <br><img src="./rainbow-superthin.gif">
 
