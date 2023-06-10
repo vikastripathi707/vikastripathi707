@@ -8,7 +8,7 @@
 
 -# 💫 About Me:
 🔭 I’m Currently looking for Job Oppotunities in Web-Development Field.<img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
-<br>🤔 Engineering Graduate from  Dr. A. P. J. Abdul Kalam Technical University (AKTU) ,Lucknow.<br>⚡ Contributor @ Hacksquad '22 , Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: (https://www.linkedin.com/in/vikastripathi707)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
+<br>🤔 Engineering Graduate from  Dr. A. P. J. Abdul Kalam Technical University (AKTU) ,Lucknow.<br>⚡ Contributor @ GirlScript Summer of Code '23 , Social Summer Of Code '23 , Hacksquad '22 , Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: (https://www.linkedin.com/in/vikastripathi707)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
  <br><img src="./rainbow-superthin.gif">
 
 ## 🌐 Socials:
