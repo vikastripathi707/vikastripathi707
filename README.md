@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=vikastripathi707&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vikastripathi707&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikastripathi707&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![vikastripathi707's GitHub | Stats](https://stats.quine.sh/vikastripathi707/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vikastripathi707)
 <br>
 <img src="./rainbow-superthin.gif"> <br>
 
