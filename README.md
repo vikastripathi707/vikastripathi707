@@ -7,14 +7,14 @@
 
 
 -# 💫 About Me:
-🔭 I’m Currently looking for Job Oppotunities in Web-Development Field.<img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
-<br>🤔 Engineering Graduate from  Dr. A. P. J. Abdul Kalam Technical University (AKTU) ,Lucknow.<br>⚡ Contributor @ GirlScript Summer of Code '23 , Social Summer Of Code '23 , Hacksquad '22 , Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: (https://www.linkedin.com/in/vikastripathi707)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
+🔭 I’m Currently looking for Job opportunities in Web-Development Field.<img width="30" src="https://cdn-icons-png.flaticon.com/128/7991/7991055.png" >
+<br>🤔 Engineering Graduate from  Dr. A. P. J. Abdul Kalam Technical University (AKTU) , Lucknow.<br>⚡ Contributor @ GirlScript Summer of Code '23 , Social Summer Of Code '23  , 24, Hacksquad '22 , Hactoberfest'22 ,GoogleCloud Ready FacilatorProgramme'22, Learn2Earn Program By Google Cloud'22<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: (https://www.linkedin.com/in/vikastripathi707)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Coder but from Electronics & Communication (ECE) Engineering Background.
  <br><img src="./rainbow-superthin.gif">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ervikasji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/vikas-tripathi-lko](https://www.linkedin.com/in/vikastripathi707)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HANDSOMEHUNKRUDRA) <br><img src="./rainbow-superthin.gif">
 
-#💻Hacktoberfest Badges Board :
+# 💻Hacktoberfest Badges Board :
 [![@ervikasji's Holopin board](https://holopin.me/ervikasji)](https://holopin.io/@ervikasji) <br>
 <img src="./rainbow-superthin.gif"> <br>
 # 💻 Tech Stack:
